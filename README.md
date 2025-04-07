@@ -1,6 +1,6 @@
 # Green Link – BramHacks 2024 🏆  
 
-**A mobile application incentivizing eco-friendly transit use while supporting local businesses.**  
+<p align="center"><em>A mobile application incentivizing eco-friendly transit use while supporting local businesses.</em></p>
 
 ---
 
