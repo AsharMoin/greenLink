@@ -5,7 +5,7 @@
 ---
 ### 🎥 Demo
 
-![greenLink Demo](./assets/greenLinkDemo.gif)
+![greenLink Demo](./assets/images/greenLinkDemo.gif)
 
 ---
 
