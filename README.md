@@ -42,4 +42,9 @@ Green Link can scale to other cities, incentivizing transit use globally while c
 
 ---
 
+## 🗣️ Presentation  
+Heres a link to our [presentation!](https://docs.google.com/presentation/d/1LqBNGqDfixITZR2Jj3_lEWK4Z_cWCTNX5Bmyk-hT4XI/edit)
+
+---
+
 Made with ❤️ by the Green Link Team!
