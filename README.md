@@ -3,6 +3,11 @@
 <p align="center"><em>A mobile application incentivizing eco-friendly transit use while supporting local businesses.</em></p>
 
 ---
+### 🎥 Demo
+
+![greenLink Demo](./assets/greenLinkDemo.gif)
+
+---
 
 ## 🚍 About the Project  
 Green Link is designed to encourage public transit use by rewarding eco-conscious decisions. It dynamically tracks bus routes and calculates how much more environmentally friendly the decision was compared to driving a car. Users earn points that can be redeemed for coupons at local businesses.  
